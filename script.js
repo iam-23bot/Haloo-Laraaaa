@@ -2,7 +2,7 @@ const messages = [
     "Jangan lupa makan siang ya",
     "Makan makanan yang sehat dan habiskan ya",
     "Jangan nakal-nakal dan jaga kesehatan ya",
-    "I Love You So Much"
+    "I Love You So Much🥰😍😘👩‍❤️‍👨🍃🌟"
 ];
 
 let currentMessageIndex = 0;
